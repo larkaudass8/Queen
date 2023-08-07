@@ -1,7 +1,7 @@
 {
 	"name": "Queen",
 	"version": "9.7.5",
-	"description": "A simple Facebook Messenger Bot made by me(Hammad).",
+	"description": "A simple Facebook Messenger Bot made by me(Alidost).",
 	"main": "Queen.js",
 	"scripts": {
 		"start": "node index.js",
